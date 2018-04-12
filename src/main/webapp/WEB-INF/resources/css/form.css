@@ -1,0 +1,26 @@
+section {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.ediv {
+    display: table;
+    width: 100%;
+}
+
+.div1 {
+    line-height: 35px;
+    display: table-cell;
+    width: 15%;
+}
+
+input {
+    width: 80%;
+}
+
+button {
+    line-height: 35px;
+    width: 15%;
+}

@@ -1,0 +1,51 @@
+section {
+    margin: 0 150px 0 150px;
+    text-align: center;
+    padding: 20px;
+}
+
+.product {
+    text-align: left;
+    display : inline-block;
+    position: relative;
+    background-color: #4b4e51;
+    margin: 25px;
+    width: 200px;
+    height: 330px;
+}
+
+.prodImg {
+    height: 60%;
+    width: 100%;
+}
+
+.price {
+    position: absolute;
+    bottom: 40px;
+    left: 8px;
+}
+
+.name {
+    position: absolute;
+    height: 60px;
+    width: 100%;
+    text-align: center;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.prodBtn {
+    border: 0;
+    position: absolute;
+    bottom: 8px;
+    right: 8px;
+}
+
+.prodInput {
+    border: 0;
+    position: absolute;
+    bottom: 8px;
+    left: 8px;
+    width: 50px;
+    text-align: center;
+}
